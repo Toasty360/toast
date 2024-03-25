@@ -8,3 +8,4 @@ test.ts
 dist
 package-lock.json
 yarn.lock
+.vercel
